@@ -1,0 +1,2 @@
+# TestGitOrnekKod
+bu bir denemedir
