@@ -1,0 +1,15 @@
+C:\testgit\Yeni klasör\bin\Debug\net6.0\TestGitOrnekKod.exe
+C:\testgit\Yeni klasör\bin\Debug\net6.0\TestGitOrnekKod.deps.json
+C:\testgit\Yeni klasör\bin\Debug\net6.0\TestGitOrnekKod.runtimeconfig.json
+C:\testgit\Yeni klasör\bin\Debug\net6.0\TestGitOrnekKod.dll
+C:\testgit\Yeni klasör\bin\Debug\net6.0\TestGitOrnekKod.pdb
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.GeneratedMSBuildEditorConfig.editorconfig
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.AssemblyInfoInputs.cache
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.AssemblyInfo.cs
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.csproj.CoreCompileInputs.cache
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.sourcelink.json
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.dll
+C:\testgit\Yeni klasör\obj\Debug\net6.0\refint\TestGitOrnekKod.dll
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.pdb
+C:\testgit\Yeni klasör\obj\Debug\net6.0\TestGitOrnekKod.genruntimeconfig.cache
+C:\testgit\Yeni klasör\obj\Debug\net6.0\ref\TestGitOrnekKod.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlCO3qrkeXE=",
+  "success": true,
+  "projectFilePath": "C:\\testgit\\Yeni klasör\\TestGitOrnekKod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIWO\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.203\\microsoft.net.sdk.compilers.toolset.9.0.203.nupkg.sha512"
+  ],
+  "logs": []
+}
